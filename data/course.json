@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ]
+  ],
+  "legacy_uid": "f276967a-969f-e72c-fa10-39bca25cf10d",
+  "instructors": {
+    "content": [
+      "655d9584-f056-5cd8-7b1b-f8b70b708d53"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8c5d2a14-2bf9-2e7c-b06f-0a67570a64ad",
+    "website": "4-463-building-technologies-iii-building-structural-systems-ii-fall-2002"
+  },
+  "course_title": "Building Technologies III: Building Structural Systems II",
+  "course_description": "This course addresses advanced topics in structures, exterior envelopes and contemporary production technologies. It continues the exploration of structural elements and systems; expanding to include more complex determinant, indeterminate, long-span and high-rise systems. Some of the topics covered include reinforced concrete, steel and engineered wood design, and an introduction to tensile systems. The contemporary exterior envelope is discussed with an emphasis on the classification of systems, their performance attributes and advanced manufacturing technologies. This course is the second of two graduate structures courses, the first of which is 4.462. They offer an expanded version of the content presented in the undergraduate course, 4.440.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "4.442",
+  "primary_course_number": "4.463",
+  "course_image_thumbnail": {
+    "content": "4876f41a-fb19-77e7-7641-5cff0ff82774",
+    "website": "4-463-building-technologies-iii-building-structural-systems-ii-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Problem Sets"
+  ],
+  "site_uid": "9a142fda-d2f5-4996-b30e-52e851683ce4",
+  "site_short_id": "4.463-fall-2002",
+  "site_url_path": "courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002",
+  "title": "Course Metadata"
+}
