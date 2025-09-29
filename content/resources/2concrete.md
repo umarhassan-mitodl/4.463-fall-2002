@@ -4,6 +4,8 @@ description: Lecture presentation on concrete structures.
 file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/61ff40daf6fa9c8c4a037e410ee56675_2concrete.pdf
 file_size: 667731
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

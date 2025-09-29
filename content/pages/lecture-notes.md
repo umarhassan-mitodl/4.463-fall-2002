@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides three lectures on different building materials.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
