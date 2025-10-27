@@ -4,8 +4,6 @@ description: Midterm project on exterior envelope classification and analysis.
 file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/bc8532ea805e4a85f65ac4c26ec16d30_project.pdf
 file_size: 220968
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

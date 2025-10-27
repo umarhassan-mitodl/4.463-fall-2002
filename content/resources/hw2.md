@@ -4,8 +4,6 @@ description: Homework assignment on graphic statics.
 file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/af0368cd5bb544336a32c38b3cd08a04_hw2.pdf
 file_size: 68493
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
